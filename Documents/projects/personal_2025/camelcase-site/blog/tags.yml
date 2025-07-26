@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+welcome:
+  label: welcome
+  permalink: /welcome
+  description: welcome tag description
+
+camel case:
+  label: camel case
+  permalink: /camel case
+  description: camel case tag description

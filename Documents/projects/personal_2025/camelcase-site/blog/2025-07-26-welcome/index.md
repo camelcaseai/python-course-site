@@ -1,45 +1,50 @@
 ---
-slug: welcome
+slug: Welcome
 title: Welcome
-authors: [slorber]
-tags: [facebook, hello, docusaurus]
+authors: [ebo]
+tags: [welcome, hello, camel case]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+# Learn Python for Data Science, Machine Learning, and LLMs
 
-Here are a few tips you might find useful.
-
+Welcome. This site is built for curious learners, aspiring data scientists, and tech professionals who want to break into the world of modern, data-driven innovation. Whether you are starting from scratch or looking to deepen your Python skills, this platform is designed to help you learn the language in the context of its most impactful real-world applications: data science, machine learning, and large language models (LLMs).
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## Why Python?
 
-Regular blog authors can be added to `authors.yml`.
+Python has become the primary language for data science, machine learning and AI. Its simplicity, readability, and powerful ecosystem of libraries make it ideal for working with data, building predictive models, and experimenting with state-of-the-art AI tools.
 
-The blog post date can be extracted from filenames, such as:
+If you are interested in fields like artificial intelligence, natural language processing, and statistical modeling, Python is an essential skill.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+---
 
-A blog post folder can be convenient to co-locate blog post images:
+## What You Will Learn
 
-The blog supports tags as well!
+This site offers a hands-on, project-oriented learning experience that focuses on both practical skills and conceptual understanding. You will find:
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
-<!-- Learn Python for Data Science, Machine Learning, and LLMs
-Welcome. This site is built for curious minds who want to break into the world of modern data-driven technology. Whether you're starting from scratch or leveling up your skills, you'll learn Python with a clear focus on its most exciting applications: data science, machine learning, and large language models.
+- Step-by-step Python tutorials that build a strong programming foundation, especially for working with data
+- Projects in data analysis, visualization, and machine learning using real-world datasets
+- Deep dives into essential libraries such as NumPy, pandas, Matplotlib, scikit-learn, PyTorch, and Hugging Face Transformers
+- Guidance on building your own machine learning models, including linear regression, decision trees, and neural networks
+- Tutorials on how to use and fine-tune large language models for tasks like summarization, classification, and chatbot development
+- Emphasis on applying your skills to solve real problems and build working prototypes
 
-What you can expect here:
+---
 
-Step-by-step Python lessons designed for practical understanding
+## Who This Site is For
 
-Hands-on projects in data analysis, model building, and text processing
+This platform is designed to support:
 
-Foundations in libraries like NumPy, pandas, scikit-learn, and PyTorch
+- Students and self-learners who want to start a career in AI or incorporate AI as part of their workflow
+- Analysts and engineers transitioning into data science  
+- Developers interested in understanding or building with LLMs  
+- Anyone who prefers learning by doing rather than only reading theory
 
-Applied tutorials on training models and working with pre-trained LLMs
+---
 
-Guidance on turning theory into working code that solves real problems
+## Build the Future With Code
 
-Python is the language behind today’s breakthroughs in AI and data science. This site gives you the tools to understand how it works and the skills to build with it.
+AI and data science are transforming every industry, from healthcare and finance to education and entertainment. Learning Python in this context gives you more than just programming skills. It helps you contribute to the future of intelligent technology in a meaningful way.
 
-Start learning and unlock the potential of data, models, and modern AI with Python. -->
+Start learning today and take the first step toward becoming a capable and confident data-driven developer.
+
